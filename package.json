@@ -19,5 +19,9 @@
     "@types/node": "^8.0.28",
     "tslint": "^5.7.0",
     "typescript": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NervJS/nerv-test-utils.git"
   }
 }
