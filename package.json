@@ -5,6 +5,12 @@
   "main": "index.js",
   "author": "yuche",
   "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "nervjs": "^0.1.10",
     "simulate-event": "^1.4.0"

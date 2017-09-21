@@ -8,12 +8,9 @@
     "experimentalDecorators": true,
     "noImplicitAny": false,
     "allowSyntheticDefaultImports": true,
-    "outDir": "lib",
+    "outDir": "./",
     "noUnusedLocals": true,
     "strictNullChecks": true,
-    "sourceMap": true,
-    "declaration": true,
-    "declarationDir": "dist",
     "allowJs": true
   },
   "filesGlob": [
