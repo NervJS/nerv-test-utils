@@ -1,0 +1,12 @@
+{
+  "name": "nerv-test-utils",
+  "version": "0.0.1",
+  "description": "Nerv test utils",
+  "main": "index.js",
+  "author": "yuche",
+  "license": "MIT",
+  "dependencies": {
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.2"
+  }
+}
