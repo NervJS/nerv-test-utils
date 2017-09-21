@@ -6,6 +6,11 @@
   "author": "yuche",
   "license": "MIT",
   "dependencies": {
+    "nervjs": "^0.1.10",
+    "simulate-event": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.28",
     "tslint": "^5.7.0",
     "typescript": "^2.5.2"
   }
