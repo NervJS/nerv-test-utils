@@ -1,5 +1,5 @@
 # nerv-test-utils
-> Mock react-test-utils used for Nerv.js
+> Mock [react-test-utils](https://facebook.github.io/react/docs/test-utils.html) used for Nerv.js
 
 ## Usege
 
