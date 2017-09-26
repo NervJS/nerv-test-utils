@@ -7,10 +7,10 @@
 // enzyme in Jest
 module.exports = {
   "moduleNameMapper": {
-    "^react-dom/server$": "nerv-server",
-    "^react-addons-test-utils$": "nerv-test-utils",
-    "^react$": "nerv-compat",
-    "^react-dom$": "nerv-compat"
+    "react-dom/server": "nerv-server",
+    "react-addons-test-utils": "nerv-test-utils",
+    "react": "nerv-compat",
+    "react-dom": "nerv-compat"
   }
 }
 ```
